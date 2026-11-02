@@ -2,6 +2,10 @@
 
 Statična demo trgovina za znamko dišav AURELLE. Samo HTML, CSS in vanilla JS, brez ogrodij in brez build koraka.
 
+## Spletna stran
+
+Objavljena prek GitHub Pages: https://nnejc.github.io/aurelle/
+
 ## Zagon
 
 Odprite `index.html` v brskalniku ali v mapi projekta zaženite preprost strežnik:
